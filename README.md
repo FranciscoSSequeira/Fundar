@@ -4,6 +4,9 @@ Fundar es una aplicación Full Stack Web desarrollada como proyecto final del bo
 
 La aplicación funciona como una plataforma de donaciones, permitiendo a los usuarios apoyar proyectos sociales (por ejemplo, la construcción de una escuela) de forma simple, segura y centralizada.
 
+- 🔗 Enlace a la API: https://pf-back-zimt.onrender.com/api
+- 🌐 Demo: https://demo2-five-phi.vercel.app
+  
 ---
 
 ## ✨ Funcionalidades principales:
@@ -193,7 +196,5 @@ Arquitecturas escalables
 
 ---
 
-- 🔗 Enlace a la API: https://pf-back-zimt.onrender.com/api
-- 🌐 Demo: https://demo2-five-phi.vercel.app
 - 💼 LinkedIn: www.linkedin.com/in/francisco-sequeira-
 
