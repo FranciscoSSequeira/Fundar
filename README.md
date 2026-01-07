@@ -25,7 +25,7 @@ La aplicación funciona como una plataforma de donaciones, permitiendo a los usu
 
 ✅ Envío de email automático al usuario al momento del registro
 
-#🛠️ Administradores
+### 🛠️ Administradores
 
 ✅ Login y gestión de administradores
 
@@ -41,7 +41,7 @@ La aplicación funciona como una plataforma de donaciones, permitiendo a los usu
 
 ✅ Recepción de reportes diarios del estado de los proyectos mediante tareas programadas (crons)
 
-#🖥️ Tipo de aplicación
+## 🖥️ Tipo de aplicación
 
 🌐 Aplicación Web
 
@@ -59,7 +59,7 @@ La aplicación funciona como una plataforma de donaciones, permitiendo a los usu
 
 ⏱️ Uso de tareas programadas (crons) para automatización de notificaciones
 
-#🎯 Propósito del proyecto
+## 🎯 Propósito del proyecto
 
 Fundar fue desarrollado como un proyecto académico y demostrativo, con foco en:
 
@@ -77,8 +77,8 @@ Arquitectura backend robusta y escalable
 
 El proyecto se encuentra funcional y deployado, aunque abierto a futuras mejoras.
 
-#🛠️ Stack Tecnológico
-#Frontend
+## 🛠️ Stack Tecnológico
+### Frontend
 
 ⚛️ React
 
@@ -94,7 +94,7 @@ El proyecto se encuentra funcional y deployado, aunque abierto a futuras mejoras
 
 🔐 JWT Decode
 
-#Backend
+### Backend
 
 🧱 NestJS
 
@@ -116,7 +116,7 @@ El proyecto se encuentra funcional y deployado, aunque abierto a futuras mejoras
 
 📑 Swagger (documentación de API)
 
-#Base de Datos
+### Base de Datos
 
 🐘 PostgreSQL
 
@@ -130,11 +130,12 @@ Backend: Render
 
 Base de datos: Render (PostgreSQL)
 
-👥 Roles del sistema
+## 👥 Roles del sistema
 Rol	Permisos
 Usuario	Donar, editar perfil, ver obras y donaciones
 Admin	Gestión completa de usuarios, obras y administradores
-🚀 Posibles mejoras futuras
+
+## 🚀 Posibles mejoras futuras
 
 📈 Métricas y reportes visuales
 
@@ -144,23 +145,23 @@ Admin	Gestión completa de usuarios, obras y administradores
 
 🤖 Expansión del chatbot
 
-📸 Screenshots
+## 📸 Screenshots
 
 (Próximamente)
 
 Se agregarán imágenes del dashboard de usuario, admin, chatbot y flujo de donación.
 
-🔑 Usuarios de prueba
+## 🔑 Usuarios de prueba
 
 (Próximamente)
 
 Se incluirán credenciales para facilitar la evaluación del proyecto.
 
-👨‍💻 Sobre el desarrollador
+## 👨‍💻 Sobre el desarrollador
 
 Proyecto realizado en colaboración. Mi funciones fueron en el backend de la aplicación.
 
-📌 Intereses:
+## 📌 Intereses:
 
 Desarrollo Full Stack
 
@@ -174,10 +175,10 @@ Automatización con crons
 
 Arquitecturas escalables
 
-📎 Enlace a la API: [link]https://pf-back-zimt.onrender.com/api
-📎 LinkedIn: [link]www.linkedin.com/in/francisco-sequeira-
-🌐 Demo: [link a la app]https://demo2-five-phi.vercel.app
+📎 Enlace a la API: [link] https://pf-back-zimt.onrender.com/api
+📎 LinkedIn: [link] www.linkedin.com/in/francisco-sequeira-
+🌐 Demo: [link a la app] https://demo2-five-phi.vercel.app
 
-📄 Notas finales
+## 📄 Notas finales
 
 Fundar forma parte de mi portfolio profesional y representa un proyecto Full Stack completo, integrando roles, pagos, notificaciones por email, automatización y dashboards, junto con un chatbot implementado con Botpress.
