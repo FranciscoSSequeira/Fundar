@@ -162,6 +162,8 @@ backend/
     ├── projects/              # Gestión de obras a las que se puede donar
     └── users/                 # Gestión de usuarios
 
+---
+
 ## 👥 Roles del sistema
 
 - Usuario: Donar, editar perfil, ver obras y donaciones
