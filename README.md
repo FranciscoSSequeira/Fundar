@@ -191,7 +191,7 @@ Base de datos: Render (PostgreSQL)
 </td>
   </tr>
 
-  <!-- Dashboard User + Profile -->
+  <!-- Dashboard User -->
   <tr>
     <td width="50%" align="center" valign="top">
 
@@ -200,9 +200,6 @@ Base de datos: Render (PostgreSQL)
 
 </td>
 <td width="50%" align="center" valign="top">
-
-### 👤 Perfil de Usuario
-<img alt="Perfil de Usuario" src="https://github.com/user-attachments/assets/67dfa8dd-dc96-41ec-a355-1bfb0b22dc9f" />
 
 </td>
   </tr>
@@ -217,37 +214,6 @@ Base de datos: Render (PostgreSQL)
 </td>
   </tr>
 </table>
-
-
-## 📸 Screenshots
-
-<table>
-<tr>
-<td width="50%">
-
-### Home
-<img width="1664" height="4042" alt="HomeFundar" src="https://github.com/user-attachments/assets/650b5efb-31be-49df-97fc-862fef5c0293" />
-
-</td>
-<td width="50%">
-
-### Register
-<img width="2560" height="2128" alt="demo2-five-phi vercel app_register(Nest Hub Max)" src="https://github.com/user-attachments/assets/9978dd9c-c644-4243-b03d-ad095fc951f3" />
-
-</td>
-<td width="50%">
-
-### Login
-<img width="2560" height="2128" alt="demo2-five-phi vercel app_login(Nest Hub Max)" src="https://github.com/user-attachments/assets/098a3c08-28ff-4689-b289-e39038e424d5" />
-
-</td>
-</tr>
-</table>
-
-<img width="2560" height="2128" alt="demo2-five-phi vercel app_dashboard_admin(Nest Hub Max)" src="https://github.com/user-attachments/assets/6cb5c24f-7edf-431a-9831-0cec670039bf" />
-
-<img width="2560" height="2128" alt="demo2-five-phi vercel app_dashboard_profile(Nest Hub Max)" src="https://github.com/user-attachments/assets/67dfa8dd-dc96-41ec-a355-1bfb0b22dc9f" />
-
 
 ---
 
