@@ -160,6 +160,65 @@ Base de datos: Render (PostgreSQL)
 
 ---
 
+## 📸 Screenshots finales
+
+## 🖼️ Vistas de la aplicación
+
+<table>
+  <!-- Home + Register -->
+  <tr>
+    <td width="50%" align="center" valign="top">
+
+### 🏠 Home
+<img alt="Home Fundar" src="https://github.com/user-attachments/assets/650b5efb-31be-49df-97fc-862fef5c0293" />
+
+</td>
+<td width="50%" align="center" valign="top">
+
+### 📝 Register
+<img alt="Register Fundar" src="https://github.com/user-attachments/assets/9978dd9c-c644-4243-b03d-ad095fc951f3" />
+
+</td>
+  </tr>
+
+  <!-- Login -->
+  <tr>
+    <td colspan="2" align="center" valign="top">
+
+### 🔐 Login
+<img alt="Login Fundar" src="https://github.com/user-attachments/assets/098a3c08-28ff-4689-b289-e39038e424d5" />
+
+</td>
+  </tr>
+
+  <!-- Dashboard User + Profile -->
+  <tr>
+    <td width="50%" align="center" valign="top">
+
+### 📊 Dashboard de Usuario
+<img alt="Dashboard Usuario" src="https://github.com/user-attachments/assets/67dfa8dd-dc96-41ec-a355-1bfb0b22dc9f" />
+
+</td>
+<td width="50%" align="center" valign="top">
+
+### 👤 Perfil de Usuario
+<img alt="Perfil de Usuario" src="https://github.com/user-attachments/assets/67dfa8dd-dc96-41ec-a355-1bfb0b22dc9f" />
+
+</td>
+  </tr>
+
+  <!-- Dashboard Admin -->
+  <tr>
+    <td colspan="2" align="center" valign="top">
+
+### 🛠️ Dashboard de Administrador
+<img alt="Dashboard Admin" src="https://github.com/user-attachments/assets/6cb5c24f-7edf-431a-9831-0cec670039bf" />
+
+</td>
+  </tr>
+</table>
+
+
 ## 📸 Screenshots
 
 <table>
@@ -184,6 +243,10 @@ Base de datos: Render (PostgreSQL)
 </td>
 </tr>
 </table>
+
+<img width="2560" height="2128" alt="demo2-five-phi vercel app_dashboard_admin(Nest Hub Max)" src="https://github.com/user-attachments/assets/6cb5c24f-7edf-431a-9831-0cec670039bf" />
+
+<img width="2560" height="2128" alt="demo2-five-phi vercel app_dashboard_profile(Nest Hub Max)" src="https://github.com/user-attachments/assets/67dfa8dd-dc96-41ec-a355-1bfb0b22dc9f" />
 
 
 ---
