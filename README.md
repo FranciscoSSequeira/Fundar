@@ -141,22 +141,42 @@ Base de datos: Render (PostgreSQL)
 
 ---
 
+## Estructura del BackEnd
+
+backend/
+└── src/
+    ├── app.controller.ts
+    ├── app.module.ts
+    ├── app.service.ts
+    ├── main.ts
+    ├── auth/                                #Autenticación
+    ├── categories/                          #Categorías de las obras
+    ├── donations/                           #Gestión de donaciones
+    ├── email/
+    ├── enums/
+    ├── file-upload/
+    ├── middlewares/
+    ├── notifications/
+    ├── payments/
+    ├── projects/
+    └── users/
+
+    auth: Autenticación (incluye JWT y Google OAuth)
+users: Gestión de usuarios y roles (admin/user)
+projects: Obras a las que se pueden donar
+categories: Categorías de las obras
+donations: Gestión de donaciones
+payments: Integración con Stripe para pagos
+file-upload: Subida de imágenes (Cloudinary)
+email: Notificaciones por email (SendGrid)
+notifications: Gestión de notificaciones internas
+middlewares: Middlewares personalizados
+enums: Enumeraciones globales (roles, etc.)
+
 ## 👥 Roles del sistema
 
 - Usuario: Donar, editar perfil, ver obras y donaciones
 - Admin:	Gestión completa de usuarios, obras y administradores
-
----
-
-## 🚀 Posibles mejoras futuras
-
-📈 Métricas y reportes visuales
-
-🧪 Testing automatizado
-
-🔐 Mayor granularidad de permisos
-
-🤖 Expansión del chatbot
 
 ---
 
@@ -217,23 +237,21 @@ Base de datos: Render (PostgreSQL)
 
 ---
 
+## 🚀 Posibles mejoras futuras
+
+📈 Métricas y reportes visuales
+
+🧪 Testing automatizado
+
+🔐 Mayor granularidad de permisos
+
+🤖 Expansión del chatbot
+
+---
+
 ## 👨‍💻 Sobre el desarrollador
 
-Proyecto realizado en colaboración. Mi funciones fueron en el backend de la aplicación.
-
-## 📌 Intereses:
-
-Desarrollo Full Stack
-
-Backend y APIs REST
-
-Autenticación y seguridad
-
-Integración de pagos
-
-Automatización con crons
-
-Arquitecturas escalables
+Proyecto realizado en colaboración con otro desarrollador. Mi funciones fueron en el backend de la aplicación.
 
 - 💼 LinkedIn: www.linkedin.com/in/francisco-sequeira-
 
