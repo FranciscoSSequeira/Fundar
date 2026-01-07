@@ -2,7 +2,9 @@
 
 Fundar es una aplicación Full Stack Web desarrollada como proyecto final del bootcamp SoyHenry, cuyo objetivo es conectar personas que desean colaborar económicamente con obras de beneficencia o causas sociales.
 
-La aplicación funciona como una plataforma de donaciones, permitiendo a los usuarios apoyar proyectos sociales (por ejemplo, la construcción de una escuela) de forma simple, segura y centralizada.
+La aplicación funciona como una plataforma de donaciones, permitiendo a los usuarios apoyar proyectos sociales.
+
+En el proyecto trabajamos un desarrollador Frontend, y un desarrollador Backend. Mi rol en este proyecto fue como desarrollador Backend.
 
 - 🔗 Enlace a la API: https://pf-back-zimt.onrender.com/api
 - 🌐 Demo: https://demo2-five-phi.vercel.app
@@ -244,8 +246,6 @@ fundar/
 ---
 
 ## 👨‍💻 Sobre el desarrollador
-
-Proyecto realizado en colaboración con otro desarrollador. Mi funciones fueron en el backend de la aplicación.
-
+Mi nombre es Francisco Sequeira, Desarrollador Full Stack.
 - 💼 LinkedIn: www.linkedin.com/in/francisco-sequeira-
 
