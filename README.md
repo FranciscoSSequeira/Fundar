@@ -161,6 +161,7 @@ backend/
     ├── payments/              # Gestión de pagos
     ├── projects/              # Gestión de obras a las que se puede donar
     └── users/                 # Gestión de usuarios
+```
 
 ---
 
