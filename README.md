@@ -162,26 +162,29 @@ Base de datos: Render (PostgreSQL)
 
 ## 📸 Screenshots
 
-## Home
-<img width="1664" height="4042" alt="HomeFundar" src="https://github.com/user-attachments/assets/650b5efb-31be-49df-97fc-862fef5c0293" />
-## 🚀 Características principales
-
 <table>
 <tr>
 <td width="50%">
 
-### 📅 Gestión de Turnos
-![Turnos](./screenshots/appointments.png)
+### Home
+![Home](<img width="1664" height="4042" alt="HomeFundar" src="https://github.com/user-attachments/assets/650b5efb-31be-49df-97fc-862fef5c0293" />)
 
 </td>
 <td width="50%">
 
-### 🧑 Perfil de Usuario
-![Perfil](./screenshots/profile.png)
+### Register
+![Register](<img width="2560" height="2128" alt="demo2-five-phi vercel app_register(Nest Hub Max)" src="https://github.com/user-attachments/assets/9978dd9c-c644-4243-b03d-ad095fc951f3" />)
+
+</td>
+<td width="50%">
+
+### Login
+[Login](<img width="2560" height="2128" alt="demo2-five-phi vercel app_login(Nest Hub Max)" src="https://github.com/user-attachments/assets/098a3c08-28ff-4689-b289-e39038e424d5" />)
 
 </td>
 </tr>
 </table>
+
 
 ---
 
