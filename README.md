@@ -41,6 +41,8 @@ La aplicación funciona como una plataforma de donaciones, permitiendo a los usu
 
 ✅ Recepción de reportes diarios del estado de los proyectos mediante tareas programadas (crons)
 
+---
+
 ## 🖥️ Tipo de aplicación
 
 🌐 Aplicación Web
@@ -59,6 +61,8 @@ La aplicación funciona como una plataforma de donaciones, permitiendo a los usu
 
 ⏱️ Uso de tareas programadas (crons) para automatización de notificaciones
 
+---
+
 ## 🎯 Propósito del proyecto
 
 Fundar fue desarrollado como un proyecto académico y demostrativo, con foco en:
@@ -76,6 +80,8 @@ Comunicación por email con usuarios y administradores
 Arquitectura backend robusta y escalable
 
 El proyecto se encuentra funcional y deployado, aunque abierto a futuras mejoras.
+
+---
 
 ## 🛠️ Stack Tecnológico
 ### Frontend
@@ -130,10 +136,14 @@ Backend: Render
 
 Base de datos: Render (PostgreSQL)
 
+---
+
 ## 👥 Roles del sistema
 
 - Usuario: Donar, editar perfil, ver obras y donaciones
 - Admin:	Gestión completa de usuarios, obras y administradores
+
+---
 
 ## 🚀 Posibles mejoras futuras
 
@@ -145,17 +155,23 @@ Base de datos: Render (PostgreSQL)
 
 🤖 Expansión del chatbot
 
+---
+
 ## 📸 Screenshots
 
 (Próximamente)
 
 Se agregarán imágenes del dashboard de usuario, admin, chatbot y flujo de donación.
 
+---
+
 ## 🔑 Usuarios de prueba
 
 (Próximamente)
 
 Se incluirán credenciales para facilitar la evaluación del proyecto.
+
+---
 
 ## 👨‍💻 Sobre el desarrollador
 
@@ -174,6 +190,8 @@ Integración de pagos
 Automatización con crons
 
 Arquitecturas escalables
+
+---
 
 - 🔗 Enlace a la API: https://pf-back-zimt.onrender.com/api
 - 🌐 Demo: https://demo2-five-phi.vercel.app
