@@ -179,7 +179,7 @@ Base de datos: Render (PostgreSQL)
 <td width="50%">
 
 ### Login
-[Login](<img width="2560" height="2128" alt="demo2-five-phi vercel app_login(Nest Hub Max)" src="https://github.com/user-attachments/assets/098a3c08-28ff-4689-b289-e39038e424d5" />)
+[Login]<img width="2560" height="2128" alt="demo2-five-phi vercel app_login(Nest Hub Max)" src="https://github.com/user-attachments/assets/098a3c08-28ff-4689-b289-e39038e424d5" />
 
 </td>
 </tr>
